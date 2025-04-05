@@ -1,3 +1,7 @@
+--------------------------------------------------------------------------------------------------------------
+Currently only works for boiii, and the executable must be called `boiii.exe` 
+--------------------------------------------------------------------------------------------------------------
+
 Prints thread usage for BO3. Will show the file and (if available) line number of each thread.
 
 Steps to use:
